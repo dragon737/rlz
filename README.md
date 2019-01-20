@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/698982da535a4d958bedb83dd10ebdc5)](https://app.codacy.com/app/perell.landscaping/rlz?utm_source=github.com&utm_medium=referral&utm_content=dragon737/rlz&utm_campaign=Badge_Grade_Dashboard)
+
 **NOTE: As of 6/21/2012, the source code has moved to the Chromium repository. The instructions in the wiki have been updated.**
 
 The RLZ project is a library for grouping promotion event signals and anonymous user cohorts.
